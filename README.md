@@ -95,4 +95,4 @@ design decisions, or show a sanitized screen recording on request.
 
 ---
 
-Case study by **Ray Salcedo** — [portfolio](https://rayysalcedo.github.io/portfolio/)
+Case study by **Ray Salcedo** — [portfolio](https://raysalcedo.netlify.app)
